@@ -1,0 +1,24 @@
+apimServiceName: configuration.dev.yaml
+namedValues:
+  - name: logger-credentials
+    properties:
+      secret: true
+      displayName: Logger-Credentials--#######
+      value: #######
+
+  - name: #######
+    properties:
+      secret: true
+      displayName: #######
+      value: #######
+
+backends:
+  - name: #######
+    properties:
+      url: "#######"
+      resourceid: "#######"
+
+loggers:
+  - name: #######
+    properties:
+      resourceid: "#######"
